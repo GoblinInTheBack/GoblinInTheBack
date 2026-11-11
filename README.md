@@ -1,6 +1,4 @@
-#     _       __     __                        
-#    | |     / /__  / /________  ____ ___  ___ 
-#    | | /| / / _ \/ / ___/ __ \/ __ `__ \/ _ \
-#    | |/ |/ /  __/ / /__/ /_/ / / / / / /  __/
-#    |__/|__/\___/_/\___/\____/_/ /_/ /_/\___/ 
-#                                              
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/GoblinInTheBack/count.svg" alt="Visitor's Count" />
+</div>

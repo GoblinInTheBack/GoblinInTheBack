@@ -1,5 +1,5 @@
 
-<img src="https://github.com/GoblinInTheBack/GoblinInTheBack/blob/main/8f8325c464ccd70b742df311ffd938aa.jpg" alt="Banner">
+<img src="https://github.com/GoblinInTheBack/GoblinInTheBack/blob/main/68218396407e3219363743ec1fb4418d.jpg" alt="Banner">
 
 
 

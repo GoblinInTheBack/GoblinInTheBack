@@ -11,5 +11,18 @@
 
 ### Doing whatever I like. If you need me, contact below 👇
 
+- My work -> **[Portfolio](GoblinInTheBack.github.io)**
 
+<br>
+
+<div align="center">
+  <a href="StanislawKordys@pm.me">
+    <img src="https://img.shields.io/badge/Mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/stanley-kordys-804981335/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr>
 
